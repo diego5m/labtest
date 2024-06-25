@@ -1,0 +1,55 @@
+* {
+    /*border: solid 1px red;*/
+}
+body {
+
+}
+h4 {
+    color: blueviolet;
+}
+p {
+    background: white;
+    color: black;
+}
+li {
+    font-size: 20px;
+}
+.vip {
+    font-size: 35px;
+    background-color: black;
+    color: white;
+}
+.lower {
+    font-size: 10px;
+    background-color: bisque;
+    color: darkgreen;
+}
+#h2-titulo {
+    border: solid 5px red;
+}
+#pa2 {
+    margin: 20px;
+}
+.row{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card-01{
+    background: #03D29F;
+    position: relative;
+    flex: 1;
+    max-width: 300px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width:800px) {
+    .card-01 {
+        flex: 100%;
+        max-width: 300px;
+    }
+}
