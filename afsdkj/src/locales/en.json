@@ -1,0 +1,33 @@
+{
+
+  "card": {
+    "name": "Country Name",
+    "officialName": "Official Name",
+    "currency": {
+      "name": "Currency Name",
+      "symbol": "Currency Symbol"
+    },
+    "capital": "Capital",
+    "region": "Region",
+    "subregion": "Subregion",
+    "languages": "Languages",
+    "area": "Area",
+    "population": "Population",
+    "flag": {
+      "png": "Flag PNG URL",
+      "svg": "Flag SVG URL"
+    },
+    "coatOfArms": {
+      "png": "Coat of Arms PNG URL",
+      "svg": "Coat of Arms SVG URL"
+    }
+  },
+  "toolbar": {
+    "title": "Spanish Language Countries"
+  },
+  "footer": {
+    "rights": "Copyright © 2024 RESTCountries, inc All rights reserved.",
+    "author": "Developed by U20231C784 Elvia Marcela Rodriguez Villa"
+  }
+
+}

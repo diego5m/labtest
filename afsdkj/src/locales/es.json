@@ -1,0 +1,31 @@
+{
+  "card": {
+    "name": "Nombre del País",
+    "officialName": "Nombre Oficial",
+    "currency": {
+      "name": "Nombre de la Moneda",
+      "symbol": "Símbolo de la Moneda"
+    },
+    "capital": "Capital",
+    "region": "Región",
+    "subregion": "Subregión",
+    "languages": "Idiomas",
+    "area": "Área",
+    "population": "Población",
+    "flag": {
+      "png": "URL de la Bandera PNG",
+      "svg": "URL de la Bandera SVG"
+    },
+    "coatOfArms": {
+      "png": "URL del Escudo de Armas PNG",
+      "svg": "URL del Escudo de Armas SVG"
+    }
+  },
+  "toolbar": {
+    "title": "Países de Habla Hispana"
+  },
+  "footer": {
+    "rights": "Derechos de Autor © 2024 RESTCountries, inc Todos los derechos reservados.",
+    "author": "Desarrollado por U20231C784 Elvia Marcela Rodriguez Villa"
+  }
+}
